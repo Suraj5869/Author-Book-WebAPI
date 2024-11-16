@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6t2TORusVOzdXHqfPCumtTDfSh15nR+E2o4yWp8Su7I=",
+  "Source": "AuthorWebApi",
+  "BasePath": "_content/AuthorWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
